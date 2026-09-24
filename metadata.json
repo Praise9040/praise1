@@ -1,0 +1,6 @@
+{
+  "name": "Online mediCare - Appointment Scheduling & Free AI Telehealth",
+  "description": "Online mediCare provides 24/7 free AI-guided medical consultations, evidence-based health triage with rightful public resources, and seamless online appointment scheduling with telehealth doctors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
